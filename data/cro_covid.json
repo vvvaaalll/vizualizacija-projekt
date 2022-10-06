@@ -1,0 +1,133 @@
+{
+  "id": 1943,
+  "timestamp": "2022-06-20T10:13:37.000Z",
+  "Datum": "2022-06-20 00:00",
+  "PodaciDetaljno": [
+    {
+      "Zupanija": "Bjelovarsko-bilogorska",
+      "broj_zarazenih": 22383,
+      "broj_umrlih": 393,
+      "broj_aktivni": 26
+    },
+    {
+      "Zupanija": "Brodsko-posavska",
+      "broj_zarazenih": 31031,
+      "broj_umrlih": 418,
+      "broj_aktivni": 10
+    },
+    {
+      "Zupanija": "Dubrovačko-neretvanska",
+      "broj_zarazenih": 40132,
+      "broj_umrlih": 308,
+      "broj_aktivni": 179
+    },
+    {
+      "Zupanija": "Grad Zagreb",
+      "broj_zarazenih": 256532,
+      "broj_umrlih": 4912,
+      "broj_aktivni": 526
+    },
+    {
+      "Zupanija": "Istarska",
+      "broj_zarazenih": 28648,
+      "broj_umrlih": 452,
+      "broj_aktivni": 34
+    },
+    {
+      "Zupanija": "Karlovačka",
+      "broj_zarazenih": 28421,
+      "broj_umrlih": 762,
+      "broj_aktivni": 23
+    },
+    {
+      "Zupanija": "Koprivničko-križevačka",
+      "broj_zarazenih": 23924,
+      "broj_umrlih": 502,
+      "broj_aktivni": 6
+    },
+    {
+      "Zupanija": "Krapinsko-zagorska",
+      "broj_zarazenih": 28903,
+      "broj_umrlih": 592,
+      "broj_aktivni": 13
+    },
+    {
+      "Zupanija": "Ličko-senjska",
+      "broj_zarazenih": 10566,
+      "broj_umrlih": 226,
+      "broj_aktivni": 10
+    },
+    {
+      "Zupanija": "Međimurska",
+      "broj_zarazenih": 38830,
+      "broj_umrlih": 351,
+      "broj_aktivni": 19
+    },
+    {
+      "Zupanija": "Osječko-baranjska",
+      "broj_zarazenih": 59348,
+      "broj_umrlih": 1613,
+      "broj_aktivni": 77
+    },
+    {
+      "Zupanija": "Požeško-slavonska",
+      "broj_zarazenih": 12657,
+      "broj_umrlih": 219,
+      "broj_aktivni": 6
+    },
+    {
+      "Zupanija": "Primorsko-goranska",
+      "broj_zarazenih": 103736,
+      "broj_umrlih": 1015,
+      "broj_aktivni": 267
+    },
+    {
+      "Zupanija": "Šibensko-kninska",
+      "broj_zarazenih": 32290,
+      "broj_umrlih": 344,
+      "broj_aktivni": 63
+    },
+    {
+      "Zupanija": "Sisačko-moslavačka",
+      "broj_zarazenih": 35071,
+      "broj_umrlih": 383,
+      "broj_aktivni": 20
+    },
+    {
+      "Zupanija": "Splitsko-dalmatinska",
+      "broj_zarazenih": 153734,
+      "broj_umrlih": 1318,
+      "broj_aktivni": 505
+    },
+    {
+      "Zupanija": "Varaždinska",
+      "broj_zarazenih": 54014,
+      "broj_umrlih": 1020,
+      "broj_aktivni": 36
+    },
+    {
+      "Zupanija": "Virovitičko-podravska",
+      "broj_zarazenih": 14383,
+      "broj_umrlih": 263,
+      "broj_aktivni": 7
+    },
+    {
+      "Zupanija": "Vukovarsko-srijemska",
+      "broj_zarazenih": 28409,
+      "broj_umrlih": 456,
+      "broj_aktivni": 19
+    },
+    {
+      "Zupanija": "Zadarska",
+      "broj_zarazenih": 48675,
+      "broj_umrlih": 474,
+      "broj_aktivni": 60
+    },
+    {
+      "Zupanija": "Zagrebačka",
+      "broj_zarazenih": 90261,
+      "broj_umrlih": 10,
+      "broj_aktivni": 111
+    }
+  ]
+}
